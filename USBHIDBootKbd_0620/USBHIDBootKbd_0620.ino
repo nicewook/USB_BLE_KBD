@@ -4,7 +4,6 @@
 #ifdef dobogusinclude
 #include <spi4teensy3.h>
 #endif
-#temp
 
 class KbdRptParser : public KeyboardReportParser
 {
